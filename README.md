@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="src/Pg_CareMe.png" alt="CareMe Logo" width="180"/>
+<img src="docs/Logo_CareMe.png" alt="CareMe Logo" width="220"/>
 
 # CareMe — Backend API
 
